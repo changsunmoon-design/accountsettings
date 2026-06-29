@@ -1,7 +1,3 @@
-[Account Settings (1).html](https://github.com/user-attachments/files/29456327/Account.Settings.1.html)
-# accountsettings
-Voice
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
